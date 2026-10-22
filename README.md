@@ -66,6 +66,3 @@ MediAgent is an intelligent multi-agent biomedical assistant designed to analyze
 
 MediAgent is an educational project and does not replace professional medical advice, diagnosis, or treatment. Its outputs should not be considered a definitive medical diagnosis.
 
-## Author
-
-Biomedical Engineering Student
